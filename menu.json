@@ -1,0 +1,26 @@
+[
+    {
+        "day": "Måndag",
+        "dish": "SPAGHETTI CARBONARA, Pecorino, ruccola, tomat, sallad"
+    },
+    {
+        "day": "Tisdag",
+        "dish": "HALSTRAD LAXFJÄRIL, Örtigt potatisstomp, vitlökssmör, smörglacerad morot"
+    },
+    {
+        "day": "Onsdag",
+        "dish": "BAKAD KOLJA, Äggsås, rostad broccoli, kokt potatis"
+    },
+    {
+        "day": "Torsdag",
+        "dish": "VILT PANNBIFF, Rostade rotfrukter, spenat, rödvinssky, getostcréme"
+    },
+    {
+        "day": "Fredag",
+        "dish": "KOLGRILLAD FLÄSKKOTLETTRACKS, Klyftpotatis, chimichurri, chili grillad majskolv, rödvinssky"
+    },
+    {
+        "day": "Veckans Vegetariska",
+        "dish": "RATATOUILLE, Couscous, hummus, friterade kikärtor"
+    }
+]
